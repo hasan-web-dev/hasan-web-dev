@@ -66,13 +66,13 @@ My personal developer portfolio showcasing my skills, projects, and journey as a
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-📧 Email: hasan4cd@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/hasan-raza-web-developer/
-
-💻 GitHub: https://github.com/hasan-web-dev
+<p align="left">
+<a href="https://www.linkedin.com/in/hasan-raza-web-developer/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+</p>
 
 ---
 
