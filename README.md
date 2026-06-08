@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hasan Raza</h1>
 
-<!--
-**hasan-web-dev/hasan-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Frontend Developer | React.js Developer | MERN Stack Learner</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about building modern, responsive, and user-friendly web applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/hasan-web-dev">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/hasan-raza-web-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Web Development Graduate
+- 💻 Frontend Developer specializing in React.js
+- 🌱 Currently learning MERN Stack Development
+- 🚀 Passionate about creating responsive and user-friendly web applications
+- 💼 Open to Internship and Entry-Level Opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🛍️ Product App
+A React-based application that displays products with a clean and responsive user interface.
+
+### 🔐 Authentication App
+A secure authentication system featuring user registration, login, and protected routes.
+
+### 🌐 Personal Portfolio
+My personal developer portfolio showcasing my skills, projects, and journey as a web developer.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasan-web-dev&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-web-dev&layout=compact" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Build advanced MERN Stack projects
+- Strengthen backend development skills
+- Contribute to open-source projects
+- Gain industry experience through internships
+- Become a Full-Stack Developer
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: hasan4cd@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/hasan-raza-web-developer/
+
+💻 GitHub: https://github.com/hasan-web-dev
+
+---
+
+⭐ Thanks for visiting my profile. Feel free to check out my repositories and connect with me!
