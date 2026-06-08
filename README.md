@@ -68,6 +68,10 @@ My personal developer portfolio showcasing my skills, projects, and journey as a
 
 ## 🌐 Connect With Me
 
+<a href="mailto:youremail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/hasan-raza-web-developer/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
