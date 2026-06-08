@@ -69,8 +69,8 @@ My personal developer portfolio showcasing my skills, projects, and journey as a
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hasan-raza-web-developer/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+<a href="https://www.linkedin.com/in/hasan-raza-web-developer/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
 
