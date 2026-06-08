@@ -51,11 +51,7 @@ My personal developer portfolio showcasing my skills, projects, and journey as a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-web-dev&show_icons=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-web-dev&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasan-web-dev" />
 </p>
 
 ---
