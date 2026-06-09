@@ -76,6 +76,10 @@ My personal developer portfolio showcasing my skills, projects, and journey as a
 <a href="https://www.linkedin.com/in/hasan-raza-web-developer/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
 </p>
 
 ---
