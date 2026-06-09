@@ -78,7 +78,7 @@ My personal developer portfolio showcasing my skills, projects, and journey as a
 </a>
 
 <a href="https://x.com/HasanRaza7srd" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=x" />
 </a>
 </p>
 
